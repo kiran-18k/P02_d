@@ -4,7 +4,7 @@
 # API_UTILS_MATT
 
 
-def read_file(filename):
+def Read_write_file(filename):
     """
     Read content from a file.
     
